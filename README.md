@@ -1,1 +1,0 @@
-# anomaly_detection_covid-19_result
